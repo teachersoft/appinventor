@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"213","Source":"Form","Properties":{"$Name":"DISE_COLORES","$Type":"Form","$Version":"30","AppName":"snapmix_default","ShowListsAsJson":"False","Sizing":"Fixed","Title":"DISE_COLORES","TutorialURL":"http:\/\/appinventor.mit.edu\/yrtoolkit\/yr\/tutorials\/snapRemix.html?url=http:\/\/yrt.appinventor.mit.edu\/","Uuid":"0","$Components":[{"$Name":"HorizontalArrangement2","$Type":"HorizontalArrangement","$Version":"4","Width":"-2","Uuid":"-1092835800","$Components":[{"$Name":"TextBox1","$Type":"TextBox","$Version":"6","Hint":"Hint for TextBox1","Uuid":"-2082750379"},{"$Name":"btnejecucion","$Type":"Button","$Version":"7","Text":"Color","Uuid":"-1289541870"}]},{"$Name":"HorizontalArrangement1","$Type":"HorizontalArrangement","$Version":"4","Width":"-2","Uuid":"1254954169","$Components":[{"$Name":"Canvas1","$Type":"Canvas","$Version":"15","Width":"-2","Uuid":"-281691355"}]}]}}
+|#
