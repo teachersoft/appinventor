@@ -5,3 +5,4 @@ Michael Aragon: la app es para tomar fotografias o escoger una de la galería y 
 Alex Barona: La aplicacion sirve para poner una foto de tu galeria o tambien la que tomas con la camara te sale en la aplicacion 
 
 Elizabeth Alvarado: La función de la aplicación es tomar fotos y agregar fotos de la galería, esto se muestra en la parte inferior blanco.
+Roger Davila: en la aplicacion se puede tomar fotos o subir de la galeria y lo muestra .
